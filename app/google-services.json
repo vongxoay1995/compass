@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657576086679",
+    "project_id": "compass-88dda",
+    "storage_bucket": "compass-88dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657576086679:android:d76f0371c165948ac56dd2",
+        "android_client_info": {
+          "package_name": "com.tmobiles.compass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657576086679-5q75ks2st6bh1u55f6m93qhuhemenns0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tmobiles.compass",
+            "certificate_hash": "4a09b382c2a706ee084ad2dd9ef8f73e05618fe2"
+          }
+        },
+        {
+          "client_id": "657576086679-kaqvbe5qgd9h9csc7fdt8rb4k53kbr1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3JKejDdigE3IhLFIhPwtqMvATN8pWiR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657576086679-kaqvbe5qgd9h9csc7fdt8rb4k53kbr1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
